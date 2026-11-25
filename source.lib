@@ -1,7 +1,7 @@
 --[[
     Frozen UI Library
     Clean • Modern • Full Component Support
-    Version 2.0
+    Version 2.1
 ]]
 
 local Players = game:GetService("Players")
